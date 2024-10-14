@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.navbar {
+    background-color: #3498db;
+}
+
+.navbar a {
+    color: #ecf0f1;
+}
+
+.about-me img {
+    max-width: 100em;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin: 1rem;
+}
+
+.my-work article {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.my-work img {
+    max-width: 50em;
+    max-height: 15em;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+} 
+
+footer {
+    background-color: #34495e;
+    color: #ecf0f1;
+    padding: 1rem 0;
+}
