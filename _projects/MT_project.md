@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Madison Timeline
+description: TBD
+img: assets/img/3.jpg
 importance: 3
 category: fun
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
